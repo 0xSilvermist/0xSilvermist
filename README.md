@@ -7,7 +7,7 @@ Here are the contests I've participated in and my placements:
 
 | Contest | Platform | Place | My findings |
 | :---:   | :---:    | :---:  | :---: | 
-| Usual (team with ZdravkoHr) | Cantina  | Judging | - |
+| Usual (team with ZdravkoHr) | Cantina  | 1st 🥇 | - |
 | Yolo | Cantina  | 11th | - |
 | Zivoe (team with ZdravkoHr) | Sherlock  | 7th | [H](https://github.com/sherlock-audit/2024-03-zivoe-judging/issues/70), [H](https://github.com/sherlock-audit/2024-03-zivoe-judging/issues/12), [H](https://github.com/sherlock-audit/2024-03-zivoe-judging/issues/100), [H](https://github.com/sherlock-audit/2024-03-zivoe-judging/issues/118), [M](https://github.com/sherlock-audit/2024-03-zivoe-judging/issues/103), [M](https://github.com/sherlock-audit/2024-03-zivoe-judging/issues/28), [M](https://github.com/sherlock-audit/2024-03-zivoe-judging/issues/282), [M](https://github.com/sherlock-audit/2024-03-zivoe-judging/issues/116)  |
 | Zap | Sherlock  | 6th | [H](https://github.com/sherlock-audit/2024-03-zap-protocol-judging/issues/141), [M](https://github.com/sherlock-audit/2024-03-zap-protocol-judging/issues/144), [M](https://github.com/sherlock-audit/2024-03-zap-protocol-judging/issues/158) |
