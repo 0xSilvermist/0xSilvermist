@@ -3,7 +3,7 @@ Hi, I'm Silvermist and here is my experience as security researcher. I'm activel
 You can find me on Twitter [@0xSilvermist](https://twitter.com/0xSilvermist) or Discord @0xsilvermist
 
 ## Audit Contests 
-Here are the contests I've participated in and my placements:
+Here are some of the contests I've participated in and my placements:
 ### Solidity
 | Contest | Platform | Place | My findings |
 | :---:   | :---:    | :---:  | :---: | 
