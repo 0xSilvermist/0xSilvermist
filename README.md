@@ -1,6 +1,31 @@
 # About me
-Hi, I'm Silvermist and here is my experience as security researcher. I'm actively paricipating in contests, however I'm open for private audits as well. 
+Hi, I'm Silvermist, and here is my experience as a security researcher that includes participation in contests and private audits as well. 
 You can find me on Twitter [@0xSilvermist](https://twitter.com/0xSilvermist) or Discord @0xsilvermist
+
+
+## Private Audits 
+### Egis Security
+
+| Project | Date           | Language  | Report      |
+|:--------|:---------------|:----------|:------------|
+| Vyper   | October 2024   | Solidity  | Not public  |
+
+### Pashov Audit group
+
+| Project | Date           | Language  | Report      |
+|:--------|:---------------|:----------|:------------|
+| Noodles | March 2025     | Solidity  | Soon        |
+| Level   | April 2025     | Solidity  | Soon        |
+| Bancor  | June 2025      | Solidity  | Soon        |
+
+### Chain Defenders
+
+| Project           | Date         | Language | Report      |
+|:------------------|:-------------|:---------|:------------|
+| Addicted Dot Fun  | July 2025    | Rust     | Soon        |
+
+
+
 
 ## Audit Contests 
 Here are some of the contests I've participated in and my placements:
