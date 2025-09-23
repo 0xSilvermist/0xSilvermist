@@ -33,6 +33,7 @@ Here are some of the contests I've participated in and my placements:
 ### Rust
 | Contest | Platform | Place | My findings |
 | :---:   | :---:    | :---:  | :---: | 
+| [Telcoin](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview/leaderboard) (DuoSec team) | Cantina  | 6th | 2H, 4M |
 | Orderly | Sherlock  | 4th | [H](https://github.com/sherlock-audit/2024-09-orderly-network-solana-contract-judging/issues/99) |
 | Superposition | Code4rena  | 14th | [H](https://github.com/code-423n4/2024-08-superposition-findings/issues/149), [M](https://github.com/code-423n4/2024-08-superposition-findings/issues/31), [M](https://github.com/code-423n4/2024-08-superposition-findings/issues/30) |
 
