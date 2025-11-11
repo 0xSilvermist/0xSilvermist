@@ -4,14 +4,15 @@ You can find me on Twitter [@0xSilvermist](https://twitter.com/0xSilvermist) or 
 
 
 ## Private Audits 
-| Company             | Project           | Date          | Language | Report      |
-|:--------------------|:------------------|:--------------|:---------|:------------|
-| Egis Security       | Vyper             | October 2024  | Solidity | Not public  |
-| Pashov Audit group  | Noodles           | March 2025    | Solidity | Soon        |
-| Pashov Audit group  | Level             | April 2025    | Solidity | Soon        |
-| Pashov Audit group  | Bancor            | June 2025     | Solidity | Soon        |
-| Chain Defenders     | Addicted Dot Fun  | July 2025     | Rust     | Soon        |
-
+| Company             | Project           | Date          | Language | 
+|:--------------------|:------------------|:--------------|:---------|
+| Egis Security       | Vyper             | October 2024  | Solidity | 
+| Pashov Audit group  | Noodles           | March 2025    | Solidity | 
+| Pashov Audit group  | Level             | April 2025    | Solidity | 
+| Pashov Audit group  | Bancor            | June 2025     | Solidity | 
+| Chain Defenders     | Addicted Dot Fun  | July 2025     | Rust     |
+| Sherlock            | HyperLink         | October 2025  | Solidity |
+| Chain Defenders     | HyperAMM          | November 2025 | Solidity |
 
 
 
