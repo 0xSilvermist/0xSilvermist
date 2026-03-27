@@ -13,7 +13,7 @@ You can find me on Twitter [@0xSilvermist](https://twitter.com/0xSilvermist) or 
 | Chain Defenders     | Addicted Dot Fun  | July 2025     | Rust     |
 | Sherlock            | HyperLink         | October 2025  | Solidity |
 | Chain Defenders     | HyperAMM          | November 2025 | Solidity |
-
+| Sherlock            | Astra Nova        | February 2026 | Solidity |
 
 
 
