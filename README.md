@@ -14,6 +14,8 @@ You can find me on Twitter [@0xSilvermist](https://twitter.com/0xSilvermist) or 
 | Sherlock            | HyperLink         | October 2025  | Solidity |
 | Chain Defenders     | HyperAMM          | November 2025 | Solidity |
 | Sherlock            | Astra Nova        | February 2026 | Solidity |
+| Pashov Audit group  | RAAC           | April 2026    | Solidity | 
+
 
 ## Bug Bounties
 | Platform  | Severity |
