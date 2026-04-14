@@ -15,7 +15,8 @@ You can find me on Twitter [@0xSilvermist](https://twitter.com/0xSilvermist) or 
 | Chain Defenders     | HyperAMM          | November 2025 | Solidity |
 | Sherlock            | Astra Nova        | February 2026 | Solidity |
 
-
+## Bug Bounties
+2C, 1H
 
 ## Audit Contests 
 Here are some of the contests I've participated in and my placements. All of the findings can be seen in my [Sherlock profile](https://audits.sherlock.xyz/watson/Silvermist)
