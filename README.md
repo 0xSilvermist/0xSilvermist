@@ -15,6 +15,7 @@ You can find me on Twitter [@0xSilvermist](https://twitter.com/0xSilvermist) or 
 | Chain Defenders     | HyperAMM          | November 2025 | Solidity |
 | Sherlock            | Astra Nova        | February 2026 | Solidity |
 | Pashov Audit group  | RAAC           | April 2026    | Solidity | 
+| Pashov Audit group  | Polymarket           | May 2026    | Rust | 
 
 
 ## Bug Bounties
@@ -24,6 +25,7 @@ You can find me on Twitter [@0xSilvermist](https://twitter.com/0xSilvermist) or 
 | HackenProof  | Critical |
 | HackenProof  | High |
 | Immunefi  | High |
+
 
 ## Audit Contests 
 Here are some of the contests I've participated in and my placements. All of the findings can be seen in my [Sherlock profile](https://audits.sherlock.xyz/watson/Silvermist)
